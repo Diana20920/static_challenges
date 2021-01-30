@@ -1,0 +1,51 @@
+title {
+  color: white;
+  text-align: left;
+}
+body {
+  background-image: url('images/1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+nav {
+  background-color: #002266;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 30px;
+  display: block;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+.container {
+  position: relative;
+}
+.topleft {
+  position: absolute;
+  top: 130px;
+  left: 16px;
+  font-size: 30px;
+  color: white
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+p {
+  background-color: black;
+  color: white;
+}
